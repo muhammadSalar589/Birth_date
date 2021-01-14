@@ -1,0 +1,13 @@
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\bin\Debug\netcoreapp3.1\Age_detector.exe
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\bin\Debug\netcoreapp3.1\Age_detector.deps.json
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\bin\Debug\netcoreapp3.1\Age_detector.runtimeconfig.json
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\bin\Debug\netcoreapp3.1\Age_detector.runtimeconfig.dev.json
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\bin\Debug\netcoreapp3.1\Age_detector.dll
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\bin\Debug\netcoreapp3.1\Age_detector.pdb
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.csprojAssemblyReference.cache
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.AssemblyInfoInputs.cache
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.AssemblyInfo.cs
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.csproj.CoreCompileInputs.cache
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.dll
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.pdb
+E:\Semester_5\Business_Application\First_Home_Work\Age_detector\Age_detector\obj\Debug\netcoreapp3.1\Age_detector.genruntimeconfig.cache
